@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+enableEmoji = true
+title = "Tattoo Studio"
+theme = "dimension"

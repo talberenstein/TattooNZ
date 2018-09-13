@@ -1,0 +1,51 @@
+baseurl = "http://example.org"
+title = "Tattoo NZ"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->A lot of weed and shits and I am so high to keep going writing something but this is the idea fuckeerrssss <a href="https://instagram.com">Youtube/instagram Link</a> more info and shits<!--]--><br />
+                <!--[-->Dont stole my designs! <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+  logo = "fa-diamond"
+  copyright = "TATTOO NZ"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.port]
+languageName = "Português"
+weight = 1
+title = "Tattoo NZ"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+                <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
+[languages.esp]
+languageName = "Español"
+weight = 3
+title = "Tattoo NZ"
+description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br />
+              <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
