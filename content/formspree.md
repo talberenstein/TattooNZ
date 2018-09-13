@@ -1,5 +1,5 @@
 +++
-title = "Formspree"
+title = "Contact"
 weight = 60
 menuname = "Contact"
 draft = true
