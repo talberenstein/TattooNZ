@@ -8,7 +8,7 @@ draft = true
 
 <code>{&zwnj;{< socialLinks >}}</code> will get into {{< socialLinks >}} configured in <code>config.toml</code>.
 
-<code>{&zwnj;{< gmaps  pb="\<sharecode\>" >}}</code> will get a google map 
+<code>{&zwnj;{< gmaps  pb="\<sharecode\>" >}}</code> will get a google map
 {{< gmaps pb="!1m18!1m12!1m3!1d86456.59681285016!2d8.466675323953403!3d47.377433669132884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900b9749bea219%3A0xe66e8df1e71fdc03!2zWsO8cmljaA!5e0!3m2!1sde!2sch!4v1488248947910" >}}
 
 To get the pb parameter value, search the desired place on google maps and click the share button and copy/paste the pb parameter out of the iframe code.
@@ -17,7 +17,7 @@ To get the pb parameter value, search the desired place on google maps and click
 
 This is **bold** and this is __strong__. This is *italic* and this is _emphasized_.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. 
+This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
 Finally, [this is a link to a markdown cheatsheet](https://beegit.com/markdown-cheat-sheet).
 
 > Not all markdown syntax is allowed but you can mix most html tags into the markdown text.
@@ -78,7 +78,7 @@ Finally, [this is a link to a markdown cheatsheet](https://beegit.com/markdown-c
 	<li><a href="#" class="button special">Default</a></li>
 	<li><a href="#" class="button">Default</a></li>
 </ul>
-								
+
 <h3 class="major">Table</h3>
 #### Default
 
@@ -178,9 +178,9 @@ Finally, [this is a link to a markdown cheatsheet](https://beegit.com/markdown-c
 		</tfoot>
 	</table>
 </div>
-								
 
-								
+
+
 <h3 class="major">Buttons</h3>
 <ul class="actions">
 	<li><a href="#" class="button special">Special</a></li>
@@ -198,9 +198,9 @@ Finally, [this is a link to a markdown cheatsheet](https://beegit.com/markdown-c
 	<li><span class="button special disabled">Disabled</span></li>
 	<li><span class="button disabled">Disabled</span></li>
 </ul>
-								
 
-								
+
+
 <h3 class="major">Form</h3>
 <form method="post" action="#">
 	<div class="field half first">
@@ -248,4 +248,3 @@ Finally, [this is a link to a markdown cheatsheet](https://beegit.com/markdown-c
 		<li><input type="reset" value="Reset" /></li>
 	</ul>
 </form>
-								

@@ -2,7 +2,7 @@
 title = "Contact"
 weight = 60
 menuname = "Contact"
-draft = true
+draft = false
 +++
 
 <form id="contactform" method="post" action="https://formspree.io/zeevtorrestal@gmail.com">
@@ -39,4 +39,4 @@ $(document).ready(function($) {
 </script>
 
 
-{{< socialLinks >}}
+{{< socialLinks >}} {{< gmaps pb="!1m18!1m12!1m3!1d47789.67680750795!2d173.93280799999997!3d-41.52908575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d390e0080e269bd%3A0xa00ef88e796a530!2sBlenheim!5e0!3m2!1sen!2snz!4v1537014591074" >}}
